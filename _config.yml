@@ -120,7 +120,7 @@ events:
   - image: "/img/timeline/canopy.jpg"
     date: "November 2014 - April 2015"
     description: "Canopy Apps"
-  - image: "/img/timeline/MakerBot_logo.c"
+  - image: "/img/timeline/MakerBot_logo.png"
     date: "January 2014 - November 2014"
     description: "MakerBot"
 
@@ -150,10 +150,8 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
   - title: "linkedin"
-    url: "https://twitter.com/"
+    url: "https://Linkedin.com/in/samuel-glickman/"
   - title: "github"
     url: "https://github.com/sglickman17"
 
@@ -170,7 +168,7 @@ err-404-img: "/img/labtocat.png"
 
 keybase-username: samglickman
 keybase-in-social: True
-keybase-in-footer: True
+keybase-in-footer: False
 
 ################################################################################
 
@@ -180,7 +178,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  # Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
