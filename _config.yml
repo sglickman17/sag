@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Sam Glickman"
-title: "{ Samuel Glickman }"
+title: "Samuel Glickman"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
