@@ -32,8 +32,8 @@ lang: "en"
 author: "Sam Glickman"
 title: "Samuel Glickman"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+keywords: "glickman, samuel, personal, website, projects"
+
 
 ################
 # Header layout #
@@ -53,8 +53,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "I am a man of simple tastes, I am easily satisfied with the very best."
-  - text: "Where’s your will to be weird?"
+  - text: "Everyone should know how to program a computer, because it teahces you how yo think! - Steve Jobs"
+  - text: "I am a man of simple tastes, I am easily satisfied with the very best. - Churchill"
+  - text: "First, slove the problem. Then, write the code. - John Johnson"
 
 me-img: "/img/timeline/default.png"
 
@@ -188,4 +189,3 @@ sass:
 
 gems:
   - jekyll-paginate
-  - jemoji
