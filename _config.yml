@@ -39,8 +39,6 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
-
 background-img: "../img/background.jpg"
 
 ##############################
@@ -105,17 +103,17 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/LinkedIn_logo.png"
-    date: "January 2016 - August 2016"
-    description: "Linkedin"
+    date: "Linkedin"
+    description: "January 2016 - August 2016"
   - image: "/img/timeline/so-icon.png"
-    date: "April 2015 - January 2016"
-    description: "Stack Overflow"
+    date: "Stack Overflow"
+    description: "April 2015 - January 2016"
   - image: "/img/timeline/canopy.jpg"
-    date: "November 2014 - April 2015"
-    description: "Canopy Apps"
+    date: "Canopy Apps"
+    description: "November 2014 - April 2015"
   - image: "/img/timeline/MakerBot_logo.png"
-    date: "January 2014 - November 2014"
-    description: "MakerBot"
+    date: "MakerBot"
+    description: "January 2014 - November 2014"
 
 # First image of the Timeline
 
