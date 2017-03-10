@@ -39,8 +39,6 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
-
 background-img: "../img/background.jpg"
 
 ##############################
