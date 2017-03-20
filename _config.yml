@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Sam Glickman"
 title: "Samuel Glickman"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of Sam Glickman, blogging mainly for tech. Opinions expressed are mine."
 keywords: "glickman, samuel, personal, website, projects"
 
 
@@ -54,7 +54,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Everyone should know how to program a computer, because it teahces you how yo think! - Steve Jobs"
-  - text: "I am a man of simple tastes, I am easily satisfied with the very best. - Churchill"
+  - text: "I am a man of simple tastes, I am easily satisfied with the very best. - Winston Churchill"
   - text: "First, slove the problem. Then, write the code. - John Johnson"
 
 me-img: "/img/timeline/default.png"
