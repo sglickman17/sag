@@ -14,14 +14,6 @@ url: "https://sglickman17.github.io/sag/"
 
 baseurl: /sag
 
-# Google tracking id
-
-google-tracking-id: ""
-
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
 force-https: True
 
 #############
@@ -31,7 +23,7 @@ force-https: True
 lang: "en"
 author: "Sam Glickman"
 title: "Samuel Glickman"
-description: "Blog and website of Sam Glickman, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of Sam Glickman. Opinions expressed are mine."
 keywords: "glickman, samuel, personal, website, projects"
 
 
@@ -87,12 +79,7 @@ email-share: True
 fb-share: True
 twitter-share: True
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+
 
 disqus-shortname: "sg"
 
@@ -126,20 +113,6 @@ timeline-img: "/img/timeline/default.png"
 
 email: "sammy.glickman@gmail.com"
 
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
-
-##################
-# Social Buttons #
-##################
 
 social:
   - title: "linkedin"
@@ -154,13 +127,6 @@ social:
 
 err-404-img: "/img/labtocat.png"
 
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: samglickman
-keybase-in-social: False
-keybase-in-footer: False
 
 ################################################################################
 
